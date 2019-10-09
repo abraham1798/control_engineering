@@ -1,9 +1,0 @@
- a01633926=matricula;
- a = 17;
- b = 9;
- c= 26;
- a01633926.general.a=a;
- a01633926.general.b=b;
- a01633926.general.c=c;
- num1 = [a]
- den1 = [b c]
